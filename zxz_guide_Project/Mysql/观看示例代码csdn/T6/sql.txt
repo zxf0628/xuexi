@@ -1,0 +1,14 @@
+create table if not exists my_student(
+sid char(9) PRIMARY KEY,
+name VARCHAR(20),
+sex char(1),
+address VARCHAR(30)
+);
+desc my_student;
+
+SELECT * from my_student;
+
+DELETE from my_student;
+
+insert into my_student VALUES('196000001','张三','男','浙江宁波'),
+('196000002','李四','男','浙江宁波'),('196000003','王五','女','浙江宁波');
