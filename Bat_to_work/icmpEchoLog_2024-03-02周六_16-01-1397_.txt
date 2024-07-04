@@ -1,0 +1,767 @@
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 227 milliseconds
+ Roundtrip time = 218 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 244 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 243 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 361 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 330 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 322 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 280 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 266 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 234 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 299 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 302 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 337 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 318 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 406 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 309 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 351 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 250 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 338 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 396 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 231 milliseconds
+ Roundtrip time = 195 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 320 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 300 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 333 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 248 milliseconds
+2024-03-02 16:02:14
+sendedCount =50 receviedCount =26 avgTripTime =294.538
+ lostCount =24 minTripTime =195 maxTripTime =406
+ Roundtrip time = 176 milliseconds
+ Roundtrip time = 186 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 266 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 435 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 419 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 215 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 353 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 346 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 297 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 296 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 284 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 288 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 309 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 246 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 319 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 284 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 253 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 224 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 268 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 254 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 274 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 331 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 312 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 245 milliseconds
+ Roundtrip time = 211 milliseconds
+ Roundtrip time = 280 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 248 milliseconds
+2024-03-02 16:04:25
+sendedCount =50 receviedCount =27 avgTripTime =282.185
+ lostCount =23 minTripTime =176 maxTripTime =435
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 259 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 365 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 349 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 373 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 353 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 329 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 330 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 343 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 400 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 349 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 306 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 262 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 308 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 270 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 261 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 386 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 346 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 322 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 316 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 328 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 308 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 295 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 391 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 370 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 328 milliseconds
+2024-03-02 16:06:35
+sendedCount =50 receviedCount =25 avgTripTime =329.88
+ lostCount =25 minTripTime =259 maxTripTime =400
+ Roundtrip time = 310 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 466 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 380 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 302 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 273 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 321 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 318 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 281 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 178 milliseconds
+ Roundtrip time = 263 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 289 milliseconds
+ Roundtrip time = 173 milliseconds
+ Roundtrip time = 267 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 247 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 238 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 444 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 401 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 269 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 240 milliseconds
+ Roundtrip time = 186 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 289 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 291 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 340 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 340 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 303 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 393 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 246 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+2024-03-02 16:08:44
+sendedCount =50 receviedCount =27 avgTripTime =298.074
+ lostCount =23 minTripTime =173 maxTripTime =466
+ Roundtrip time = 363 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 227 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 227 milliseconds
+ Roundtrip time = 202 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 288 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 290 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 259 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 313 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 251 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 271 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 411 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 353 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 224 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 283 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 301 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 284 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 304 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 340 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 294 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 272 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 375 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 323 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 262 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 336 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 321 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 281 milliseconds
+2024-03-02 16:10:52
+sendedCount =50 receviedCount =26 avgTripTime =294.423
+ lostCount =24 minTripTime =202 maxTripTime =411
+ Roundtrip time = 218 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 350 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 326 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 379 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 336 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 283 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 376 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 319 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 372 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 282 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 256 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 344 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 363 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 318 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 285 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 262 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 212 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 314 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 307 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 465 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 463 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 346 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 283 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 398 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+2024-03-02 16:12:59
+sendedCount =49 receviedCount =24 avgTripTime =327.375
+ lostCount =25 minTripTime =212 maxTripTime =465
+ Roundtrip time = 178 milliseconds
+ Roundtrip time = 236 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 218 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 292 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 365 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 383 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 249 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 272 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 317 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 259 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 441 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 297 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 406 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 297 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 248 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 244 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 391 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 306 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 328 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 170 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 245 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 302 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 322 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 233 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 367 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 315 milliseconds
+2024-03-02 16:15:08
+sendedCount =50 receviedCount =26 avgTripTime =295.423
+ lostCount =24 minTripTime =170 maxTripTime =441
+ Roundtrip time = 333 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 391 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 354 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 203 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 240 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 306 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 327 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 367 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 307 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 427 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 308 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 338 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 306 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 300 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 401 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 279 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 394 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 335 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 435 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 372 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 426 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 396 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 217 milliseconds
+ Roundtrip time = 195 milliseconds
+2024-03-02 16:17:18
+sendedCount =49 receviedCount =24 avgTripTime =331.542
+ lostCount =25 minTripTime =195 maxTripTime =435
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 361 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 375 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 316 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 343 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 414 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 425 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 291 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 375 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 311 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 328 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 359 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 395 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 395 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 349 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 387 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 376 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 474 milliseconds
+ Roundtrip time = 228 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 353 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 324 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 273 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 365 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 233 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 228 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 259 milliseconds
+2024-03-02 16:19:26
+sendedCount =49 receviedCount =25 avgTripTime =341.48
+ lostCount =24 minTripTime =228 maxTripTime =474
+ Roundtrip time = 211 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 277 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 263 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 324 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 285 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 194 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 269 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 210 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 347 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 259 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 208 milliseconds
+ Roundtrip time = 271 milliseconds
+ Roundtrip time = 251 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 239 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 250 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 226 milliseconds
+ Roundtrip time = 235 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 287 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 317 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 374 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 384 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 260 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 379 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 429 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 400 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 356 milliseconds
+	Call to IcmpSendEcho failed.
+	IcmpSendEcho returned error: 11010
+ Roundtrip time = 338 milliseconds
+2024-03-02 16:21:35
+sendedCount =50 receviedCount =27 avgTripTime =290.481
+ lostCount =23 minTripTime =194 maxTripTime =429
