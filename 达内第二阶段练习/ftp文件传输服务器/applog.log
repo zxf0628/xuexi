@@ -1,0 +1,137 @@
+2024-06-20 14:26:19 DEBUG    server.py[:106]  等待连接。。。
+2024-06-20 14:26:23 DEBUG    server.py[:108]  客户端：('127.0.0.1', 6095) 连接成功
+2024-06-20 14:26:23 DEBUG    client.py[:29 ]  Client---main--- ---循环向服务器发送请求
+2024-06-20 14:26:23 DEBUG    server.py[:106]  等待连接。。。
+2024-06-20 14:26:55 DEBUG    client.py[:34 ]  Client---judge_agreement---P print_log.py
+2024-06-20 14:26:55 DEBUG    client.py[:56 ]  Client---send_info---P print_log.py
+2024-06-20 14:26:55 DEBUG    server.py[:30 ]  Handle_Thread---judge_agreement---P print_log.py
+2024-06-20 14:26:55 DEBUG    server.py[:92 ]  Handle_Thread---send_data---OK
+2024-06-20 14:26:55 DEBUG    client.py[:61 ]  Client---recv_info---OK
+2024-06-20 14:26:55 DEBUG    client.py[:56 ]  Client---send_info---##
+2024-06-20 14:26:55 DEBUG    client.py[:29 ]  Client---main--- ---循环向服务器发送请求
+2024-06-20 14:30:11 DEBUG    client.py[:34 ]  Client---judge_agreement---Q
+2024-06-20 14:30:11 DEBUG    client.py[:56 ]  Client---send_info---Q
+2024-06-20 14:30:11 DEBUG    server.py[:30 ]  Handle_Thread---judge_agreement---Q
+2024-06-20 14:30:52 DEBUG    server.py[:106]  等待连接。。。
+2024-06-20 14:30:57 DEBUG    client.py[:22 ]  Client---connect--- ---连接服务器成功
+2024-06-20 14:30:57 DEBUG    client.py[:29 ]  Client---main--- ---循环向服务器发送请求
+2024-06-20 14:30:57 DEBUG    server.py[:108]  客户端：('127.0.0.1', 6168) 连接成功
+2024-06-20 14:30:57 DEBUG    server.py[:106]  等待连接。。。
+2024-06-20 14:31:18 DEBUG    client.py[:34 ]  Client---judge_agreement---P print_log.py
+2024-06-20 14:31:18 DEBUG    client.py[:56 ]  Client---send_info---P print_log.py
+2024-06-20 14:31:18 DEBUG    server.py[:30 ]  Handle_Thread---judge_agreement---P print_log.py
+2024-06-20 14:31:18 DEBUG    server.py[:92 ]  Handle_Thread---send_data---OK
+2024-06-20 14:31:18 DEBUG    client.py[:61 ]  Client---recv_info---OK
+2024-06-20 14:31:18 DEBUG    client.py[:56 ]  Client---send_info---import logging.config
+
+logging.config.fileConfig("../log_package/logginga.conf")
+logger = logging.getLogger()
+
+
+logger.debug("zzzzzzzzzzzzzzzzzzzzz")
+2024-06-20 14:31:18 DEBUG    client.py[:56 ]  Client---send_info---##
+2024-06-20 14:31:18 DEBUG    client.py[:29 ]  Client---main--- ---循环向服务器发送请求
+2024-06-20 14:33:01 DEBUG    client.py[:34 ]  Client---judge_agreement---P printXXXX.py
+2024-06-20 14:33:01 DEBUG    client.py[:56 ]  Client---send_info---P printXXXX.py
+2024-06-20 14:33:01 DEBUG    server.py[:30 ]  Handle_Thread---judge_agreement---P printXXXX.py
+2024-06-20 14:33:01 DEBUG    server.py[:92 ]  Handle_Thread---send_data---OK
+2024-06-20 14:33:01 DEBUG    client.py[:61 ]  Client---recv_info---OK
+2024-06-20 14:33:01 DEBUG    client.py[:42 ]  Client---judge_agreement--- ---无法提交文件:[Errno 2] No such file or directory: 'printXXXX.py'
+2024-06-20 14:33:01 DEBUG    client.py[:29 ]  Client---main--- ---循环向服务器发送请求
+2024-06-20 14:34:46 DEBUG    client.py[:34 ]  Client---judge_agreement---L
+2024-06-20 14:34:46 DEBUG    client.py[:65 ]  Client---Local---
+2024-06-20 14:34:46 DEBUG    client.py[:56 ]  Client---send_info---L
+2024-06-20 16:32:49 DEBUG    server.py[:103]  等待连接。。。
+2024-06-20 16:32:51 DEBUG    client.py[:23 ]  Client---connect--- ---连接服务器成功
+2024-06-20 16:32:51 DEBUG    server.py[:105]  客户端：('127.0.0.1', 4664) 连接成功
+2024-06-20 16:32:51 DEBUG    client.py[:30 ]  Client---main--- ---循环向服务器发送请求
+2024-06-20 16:32:51 DEBUG    server.py[:103]  等待连接。。。
+2024-06-20 16:32:55 DEBUG    client.py[:35 ]  Client---judge_agreement---iseohdc0icj
+2024-06-20 16:32:55 DEBUG    client.py[:30 ]  Client---main--- ---循环向服务器发送请求
+2024-06-21 09:22:42 DEBUG    server.py[:103]  等待连接。。。
+2024-06-21 09:22:46 DEBUG    client.py[:23 ]  Client---connect--- ---连接服务器成功
+2024-06-21 09:22:46 DEBUG    client.py[:30 ]  Client---main--- ---循环向服务器发送请求
+2024-06-21 09:22:46 DEBUG    server.py[:105]  客户端：('127.0.0.1', 8311) 连接成功
+2024-06-21 09:22:46 DEBUG    server.py[:103]  等待连接。。。
+2024-06-21 09:22:53 DEBUG    client.py[:35 ]  Client---judge_agreement---	L
+2024-06-21 09:22:53 DEBUG    client.py[:30 ]  Client---main--- ---循环向服务器发送请求
+2024-06-21 09:22:57 DEBUG    client.py[:35 ]  Client---judge_agreement---L
+2024-06-21 09:22:57 DEBUG    client.py[:66 ]  Client---Local---
+2024-06-21 09:22:57 DEBUG    client.py[:57 ]  Client---send_info---L
+2024-06-21 09:22:57 DEBUG    server.py[:30 ]  Handle_Thread---judge_agreement---L
+2024-06-21 09:22:57 DEBUG    server.py[:46 ]  Handle_Thread---Local---
+2024-06-21 09:22:57 DEBUG    server.py[:48 ]  文件库文件列表：['ftp.txt', 'printXXXX.py', 'print_log.py', 'Server.py', 'signal_transfer.py', '飞书.webp']
+2024-06-21 09:22:57 DEBUG    server.py[:91 ]  Handle_Thread---send_data---OK
+2024-06-21 09:22:57 DEBUG    client.py[:62 ]  Client---recv_info---OK
+2024-06-21 09:22:57 DEBUG    server.py[:91 ]  Handle_Thread---send_data---ftp.txt
+printXXXX.py
+print_log.py
+Server.py
+signal_transfer.py
+飞书.webp
+2024-06-21 09:22:57 DEBUG    client.py[:62 ]  Client---recv_info---ftp.txt
+printXXXX.py
+print_log.py
+Server.py
+signal_transfer.py
+飞书.webp
+2024-06-21 09:22:57 DEBUG    client.py[:30 ]  Client---main--- ---循环向服务器发送请求
+2024-06-21 09:23:02 DEBUG    client.py[:23 ]  Client---connect--- ---连接服务器成功
+2024-06-21 09:23:02 DEBUG    client.py[:30 ]  Client---main--- ---循环向服务器发送请求
+2024-06-21 09:23:02 DEBUG    server.py[:105]  客户端：('127.0.0.1', 8331) 连接成功
+2024-06-21 09:23:02 DEBUG    server.py[:103]  等待连接。。。
+2024-06-21 09:23:05 DEBUG    client.py[:35 ]  Client---judge_agreement---L
+2024-06-21 09:23:05 DEBUG    client.py[:66 ]  Client---Local---
+2024-06-21 09:23:05 DEBUG    client.py[:57 ]  Client---send_info---L
+2024-06-21 09:23:05 DEBUG    server.py[:30 ]  Handle_Thread---judge_agreement---L
+2024-06-21 09:23:05 DEBUG    server.py[:46 ]  Handle_Thread---Local---
+2024-06-21 09:23:05 DEBUG    server.py[:48 ]  文件库文件列表：['ftp.txt', 'printXXXX.py', 'print_log.py', 'Server.py', 'signal_transfer.py', '飞书.webp']
+2024-06-21 09:23:05 DEBUG    server.py[:91 ]  Handle_Thread---send_data---OK
+2024-06-21 09:23:05 DEBUG    client.py[:62 ]  Client---recv_info---OK
+2024-06-21 09:23:05 DEBUG    server.py[:91 ]  Handle_Thread---send_data---ftp.txt
+printXXXX.py
+print_log.py
+Server.py
+signal_transfer.py
+飞书.webp
+2024-06-21 09:23:05 DEBUG    client.py[:62 ]  Client---recv_info---ftp.txt
+printXXXX.py
+print_log.py
+Server.py
+signal_transfer.py
+飞书.webp
+2024-06-21 09:23:05 DEBUG    client.py[:30 ]  Client---main--- ---循环向服务器发送请求
+2024-06-21 09:23:13 DEBUG    client.py[:35 ]  Client---judge_agreement---Q
+2024-06-21 09:23:13 DEBUG    client.py[:57 ]  Client---send_info---Q
+2024-06-21 09:23:13 DEBUG    server.py[:30 ]  Handle_Thread---judge_agreement---Q
+2024-06-21 09:23:17 DEBUG    client.py[:35 ]  Client---judge_agreement---Q
+2024-06-21 09:23:17 DEBUG    client.py[:57 ]  Client---send_info---Q
+2024-06-21 09:23:17 DEBUG    server.py[:30 ]  Handle_Thread---judge_agreement---Q
+2024-06-25 11:45:08 DEBUG    client.py[:23 ]  Client---connect--- ---连接服务器成功
+2024-06-25 11:45:08 DEBUG    client.py[:30 ]  Client---main--- ---循环向服务器发送请求
+2024-06-25 11:48:49 DEBUG    client.py[:23 ]  Client---connect--- ---连接服务器成功
+2024-06-25 11:48:49 DEBUG    client.py[:30 ]  Client---main--- ---循环向服务器发送请求
+2024-06-25 11:49:50 DEBUG    server.py[:103]  等待连接。。。
+2024-06-25 11:50:08 DEBUG    client.py[:23 ]  Client---connect--- ---连接服务器成功
+2024-06-25 11:50:08 DEBUG    client.py[:30 ]  Client---main--- ---循环向服务器发送请求
+2024-06-25 11:50:13 DEBUG    client.py[:35 ]  Client---judge_agreement---zzz
+2024-06-25 11:50:13 DEBUG    client.py[:30 ]  Client---main--- ---循环向服务器发送请求
+2024-06-25 11:50:16 DEBUG    client.py[:35 ]  Client---judge_agreement---L
+2024-06-25 11:50:16 DEBUG    client.py[:66 ]  Client---Local---
+2024-06-25 11:50:16 DEBUG    client.py[:57 ]  Client---send_info---L
+2024-06-25 11:50:52 DEBUG    client.py[:23 ]  Client---connect--- ---连接服务器成功
+2024-06-25 11:50:52 DEBUG    client.py[:30 ]  Client---main--- ---循环向服务器发送请求
+2024-06-25 11:50:55 DEBUG    client.py[:35 ]  Client---judge_agreement---L
+2024-06-25 11:50:55 DEBUG    client.py[:66 ]  Client---Local---
+2024-06-25 11:50:55 DEBUG    client.py[:57 ]  Client---send_info---L
+2024-06-25 11:51:23 DEBUG    client.py[:62 ]  Client---recv_info---
+2024-06-25 11:51:23 DEBUG    client.py[:30 ]  Client---main--- ---循环向服务器发送请求
+2024-06-25 14:45:59 DEBUG    client.py[:23 ]  Client---connect--- ---连接服务器成功
+2024-06-25 14:45:59 DEBUG    client.py[:30 ]  Client---main--- ---循环向服务器发送请求
+2024-06-25 14:46:04 DEBUG    client.py[:35 ]  Client---judge_agreement---L
+2024-06-25 14:46:04 DEBUG    client.py[:66 ]  Client---Local---
+2024-06-25 14:46:04 DEBUG    client.py[:57 ]  Client---send_info---L
+2024-06-25 14:48:05 DEBUG    client.py[:23 ]  Client---connect--- ---连接服务器成功
+2024-06-25 14:48:05 DEBUG    client.py[:30 ]  Client---main--- ---循环向服务器发送请求
+2024-06-25 14:49:27 DEBUG    client.py[:23 ]  Client---connect--- ---连接服务器成功
+2024-06-25 14:49:27 DEBUG    client.py[:30 ]  Client---main--- ---循环向服务器发送请求

@@ -1,0 +1,149 @@
+2024-08-01 10:18:56 DEBUG    web_frame.py[:82 ]  等待webserver连接。。。
+2024-08-01 10:18:58 DEBUG    http_server.py[:63 ]  HttpServer---server_forever---开始主循环 接收服务器访问
+2024-08-01 10:19:06 DEBUG    http_server.py[:66 ]  HttpServer---server_forever---连接成功：('127.0.0.1', 10723)
+2024-08-01 10:19:06 DEBUG    http_server.py[:63 ]  HttpServer---server_forever---开始主循环 接收服务器访问
+2024-08-01 10:19:06 DEBUG    http_server.py[:66 ]  HttpServer---server_forever---连接成功：('127.0.0.1', 10724)
+2024-08-01 10:19:06 DEBUG    http_server.py[:63 ]  HttpServer---server_forever---开始主循环 接收服务器访问
+2024-08-01 10:19:06 DEBUG    http_server.py[:79 ]  HttpServer---handle---访问内容：{'method': 'GET', 'info': '/hello'}
+2024-08-01 10:19:06 DEBUG    http_server.py[:24 ]  ---connect_frame---{'method': 'GET', 'info': '/hello'}
+2024-08-01 10:19:06 DEBUG    web_frame.py[:84 ]  webserver客户端：('127.0.0.1', 10725) 连接成功
+2024-08-01 10:19:06 DEBUG    web_frame.py[:82 ]  等待webserver连接。。。
+2024-08-01 10:19:06 DEBUG    web_frame.py[:23 ]  Application---run---收到webserver：{'method': 'GET', 'info': '/hello'}
+2024-08-01 10:19:06 DEBUG    web_frame.py[:60 ]  Application---get_data---/hello
+2024-08-01 10:19:06 DEBUG    web_frame.py[:62 ]  Application---get_data---查看数据处理路由是否支持:/hello
+2024-08-01 10:19:06 DEBUG    web_frame.py[:64 ]  Application---get_data---数据处理路由支持 要执行:/hello
+2024-08-01 10:19:06 DEBUG    web_frame.py[:33 ]  Application---run---回发webserver：{"status": 200, "data": "hello python"}
+2024-08-01 10:19:06 DEBUG    http_server.py[:38 ]  ---connect_frame-return-{'status': 200, 'data': 'hello python'}
+2024-08-01 10:19:06 DEBUG    http_server.py[:86 ]  HttpServer---handle---webframe处理后返回数据：{'status': 200, 'data': 'hello python'}
+2024-08-01 10:19:06 DEBUG    http_server.py[:90 ]  HttpServer---response---200  
+2024-08-01 10:19:06 DEBUG    http_server.py[:91 ]  HttpServer---response---hello python  
+2024-08-01 10:19:06 DEBUG    http_server.py[:108]  HttpServer---response---回发给http数据：HTTP/1.1 200 OK
+Content-Type:text/html
+
+hello python
+2024-08-01 10:19:06 DEBUG    http_server.py[:79 ]  HttpServer---handle---访问内容：{'method': 'GET', 'info': '/favicon.ico'}
+2024-08-01 10:19:06 DEBUG    http_server.py[:24 ]  ---connect_frame---{'method': 'GET', 'info': '/favicon.ico'}
+2024-08-01 10:19:06 DEBUG    web_frame.py[:84 ]  webserver客户端：('127.0.0.1', 10726) 连接成功
+2024-08-01 10:19:06 DEBUG    web_frame.py[:23 ]  Application---run---收到webserver：{'method': 'GET', 'info': '/favicon.ico'}
+2024-08-01 10:19:06 DEBUG    web_frame.py[:82 ]  等待webserver连接。。。
+2024-08-01 10:19:06 DEBUG    web_frame.py[:25 ]  Application---run---有是你favicon.ico滚！
+2024-08-01 10:19:14 DEBUG    http_server.py[:66 ]  HttpServer---server_forever---连接成功：('127.0.0.1', 10727)
+2024-08-01 10:19:14 DEBUG    http_server.py[:63 ]  HttpServer---server_forever---开始主循环 接收服务器访问
+2024-08-01 10:19:14 DEBUG    http_server.py[:79 ]  HttpServer---handle---访问内容：{'method': 'GET', 'info': '/time'}
+2024-08-01 10:19:14 DEBUG    http_server.py[:24 ]  ---connect_frame---{'method': 'GET', 'info': '/time'}
+2024-08-01 10:19:14 DEBUG    web_frame.py[:84 ]  webserver客户端：('127.0.0.1', 10728) 连接成功
+2024-08-01 10:19:14 DEBUG    web_frame.py[:82 ]  等待webserver连接。。。
+2024-08-01 10:19:14 DEBUG    web_frame.py[:23 ]  Application---run---收到webserver：{'method': 'GET', 'info': '/time'}
+2024-08-01 10:19:14 DEBUG    web_frame.py[:60 ]  Application---get_data---/time
+2024-08-01 10:19:14 DEBUG    web_frame.py[:62 ]  Application---get_data---查看数据处理路由是否支持:/hello
+2024-08-01 10:19:14 DEBUG    web_frame.py[:62 ]  Application---get_data---查看数据处理路由是否支持:/time
+2024-08-01 10:19:14 DEBUG    web_frame.py[:64 ]  Application---get_data---数据处理路由支持 要执行:/time
+2024-08-01 10:19:14 DEBUG    web_frame.py[:33 ]  Application---run---回发webserver：{"status": 200, "data": "Thu Aug  1 10:19:14 2024"}
+2024-08-01 10:19:14 DEBUG    http_server.py[:38 ]  ---connect_frame-return-{'status': 200, 'data': 'Thu Aug  1 10:19:14 2024'}
+2024-08-01 10:19:14 DEBUG    http_server.py[:86 ]  HttpServer---handle---webframe处理后返回数据：{'status': 200, 'data': 'Thu Aug  1 10:19:14 2024'}
+2024-08-01 10:19:14 DEBUG    http_server.py[:90 ]  HttpServer---response---200  
+2024-08-01 10:19:14 DEBUG    http_server.py[:91 ]  HttpServer---response---Thu Aug  1 10:19:14 2024  
+2024-08-01 10:19:14 DEBUG    http_server.py[:108]  HttpServer---response---回发给http数据：HTTP/1.1 200 OK
+Content-Type:text/html
+
+Thu Aug  1 10:19:14 2024
+2024-08-01 10:20:06 DEBUG    http_server.py[:63 ]  HttpServer---server_forever---开始主循环 接收服务器访问
+2024-08-01 10:20:08 DEBUG    web_frame.py[:82 ]  等待webserver连接。。。
+2024-08-01 10:20:29 DEBUG    http_server.py[:66 ]  HttpServer---server_forever---连接成功：('127.0.0.1', 10763)
+2024-08-01 10:20:29 DEBUG    http_server.py[:63 ]  HttpServer---server_forever---开始主循环 接收服务器访问
+2024-08-01 10:20:29 DEBUG    http_server.py[:66 ]  HttpServer---server_forever---连接成功：('127.0.0.1', 10764)
+2024-08-01 10:20:29 DEBUG    http_server.py[:63 ]  HttpServer---server_forever---开始主循环 接收服务器访问
+2024-08-01 10:20:30 DEBUG    http_server.py[:79 ]  HttpServer---handle---访问内容：{'method': 'GET', 'info': '/time'}
+2024-08-01 10:20:30 DEBUG    http_server.py[:24 ]  ---connect_frame---{'method': 'GET', 'info': '/time'}
+2024-08-01 10:20:30 DEBUG    web_frame.py[:84 ]  webserver客户端：('127.0.0.1', 10765) 连接成功
+2024-08-01 10:20:30 DEBUG    web_frame.py[:82 ]  等待webserver连接。。。
+2024-08-01 10:20:30 DEBUG    web_frame.py[:23 ]  Application---run---收到webserver：{'method': 'GET', 'info': '/time'}
+2024-08-01 10:20:30 DEBUG    web_frame.py[:60 ]  Application---get_data---/time
+2024-08-01 10:20:30 DEBUG    web_frame.py[:62 ]  Application---get_data---查看数据处理路由是否支持:/hello
+2024-08-01 10:20:30 DEBUG    web_frame.py[:62 ]  Application---get_data---查看数据处理路由是否支持:/time
+2024-08-01 10:20:30 DEBUG    web_frame.py[:64 ]  Application---get_data---数据处理路由支持 要执行:/time
+2024-08-01 10:22:27 DEBUG    web_frame.py[:82 ]  等待webserver连接。。。
+2024-08-01 10:22:29 DEBUG    http_server.py[:63 ]  HttpServer---server_forever---开始主循环 接收服务器访问
+2024-08-01 10:22:45 DEBUG    http_server.py[:66 ]  HttpServer---server_forever---连接成功：('127.0.0.1', 10806)
+2024-08-01 10:22:45 DEBUG    http_server.py[:63 ]  HttpServer---server_forever---开始主循环 接收服务器访问
+2024-08-01 10:22:45 DEBUG    http_server.py[:66 ]  HttpServer---server_forever---连接成功：('127.0.0.1', 10807)
+2024-08-01 10:22:45 DEBUG    http_server.py[:63 ]  HttpServer---server_forever---开始主循环 接收服务器访问
+2024-08-01 10:22:45 DEBUG    http_server.py[:79 ]  HttpServer---handle---访问内容：{'method': 'GET', 'info': '/'}
+2024-08-01 10:22:45 DEBUG    http_server.py[:24 ]  ---connect_frame---{'method': 'GET', 'info': '/'}
+2024-08-01 10:22:45 DEBUG    web_frame.py[:84 ]  webserver客户端：('127.0.0.1', 10808) 连接成功
+2024-08-01 10:22:45 DEBUG    web_frame.py[:82 ]  等待webserver连接。。。
+2024-08-01 10:22:45 DEBUG    web_frame.py[:23 ]  Application---run---收到webserver：{'method': 'GET', 'info': '/'}
+2024-08-01 10:22:45 DEBUG    web_frame.py[:38 ]  Application---get_html---/
+2024-08-01 10:22:45 DEBUG    web_frame.py[:45 ]  Application---get_html---打开文件路径:./static/index.html
+2024-08-01 10:22:45 DEBUG    web_frame.py[:56 ]  Application---get_html---打开文件成功 200:{'status': 200, 'data': '我是主页'}
+2024-08-01 10:22:45 DEBUG    web_frame.py[:33 ]  Application---run---回发webserver：{"status": 200, "data": "\u6211\u662f\u4e3b\u9875"}
+2024-08-01 10:22:45 DEBUG    http_server.py[:38 ]  ---connect_frame-return-{'status': 200, 'data': '我是主页'}
+2024-08-01 10:22:45 DEBUG    http_server.py[:86 ]  HttpServer---handle---webframe处理后返回数据：{'status': 200, 'data': '我是主页'}
+2024-08-01 10:22:45 DEBUG    http_server.py[:90 ]  HttpServer---response---200  
+2024-08-01 10:22:45 DEBUG    http_server.py[:91 ]  HttpServer---response---我是主页  
+2024-08-01 10:22:45 DEBUG    http_server.py[:108]  HttpServer---response---回发给http数据：HTTP/1.1 200 OK
+Content-Type:text/html
+
+我是主页
+2024-08-01 10:22:45 DEBUG    http_server.py[:79 ]  HttpServer---handle---访问内容：{'method': 'GET', 'info': '/favicon.ico'}
+2024-08-01 10:22:45 DEBUG    http_server.py[:24 ]  ---connect_frame---{'method': 'GET', 'info': '/favicon.ico'}
+2024-08-01 10:22:45 DEBUG    web_frame.py[:84 ]  webserver客户端：('127.0.0.1', 10810) 连接成功
+2024-08-01 10:22:45 DEBUG    web_frame.py[:23 ]  Application---run---收到webserver：{'method': 'GET', 'info': '/favicon.ico'}
+2024-08-01 10:22:45 DEBUG    web_frame.py[:25 ]  Application---run---有是你favicon.ico滚！
+2024-08-01 10:22:45 DEBUG    web_frame.py[:82 ]  等待webserver连接。。。
+2024-08-01 10:22:55 DEBUG    http_server.py[:66 ]  HttpServer---server_forever---连接成功：('127.0.0.1', 10813)
+2024-08-01 10:22:55 DEBUG    http_server.py[:79 ]  HttpServer---handle---访问内容：{'method': 'GET', 'info': '/time'}
+2024-08-01 10:22:55 DEBUG    http_server.py[:63 ]  HttpServer---server_forever---开始主循环 接收服务器访问
+2024-08-01 10:22:55 DEBUG    http_server.py[:24 ]  ---connect_frame---{'method': 'GET', 'info': '/time'}
+2024-08-01 10:22:55 DEBUG    web_frame.py[:84 ]  webserver客户端：('127.0.0.1', 10814) 连接成功
+2024-08-01 10:22:55 DEBUG    web_frame.py[:23 ]  Application---run---收到webserver：{'method': 'GET', 'info': '/time'}
+2024-08-01 10:22:55 DEBUG    web_frame.py[:82 ]  等待webserver连接。。。
+2024-08-01 10:22:55 DEBUG    web_frame.py[:60 ]  Application---get_data---/time
+2024-08-01 10:22:55 DEBUG    web_frame.py[:62 ]  Application---get_data---查看数据处理路由是否支持:/hello
+2024-08-01 10:22:55 DEBUG    web_frame.py[:62 ]  Application---get_data---查看数据处理路由是否支持:/time
+2024-08-01 10:22:55 DEBUG    web_frame.py[:64 ]  Application---get_data---数据处理路由支持 要执行:/time
+2024-08-01 10:22:55 DEBUG    web_frame.py[:33 ]  Application---run---回发webserver：{"status": 200, "data": "Thu Aug  1 10:22:55 2024"}
+2024-08-01 10:22:55 DEBUG    http_server.py[:38 ]  ---connect_frame-return-{'status': 200, 'data': 'Thu Aug  1 10:22:55 2024'}
+2024-08-01 10:22:55 DEBUG    http_server.py[:86 ]  HttpServer---handle---webframe处理后返回数据：{'status': 200, 'data': 'Thu Aug  1 10:22:55 2024'}
+2024-08-01 10:22:55 DEBUG    http_server.py[:90 ]  HttpServer---response---200  
+2024-08-01 10:22:55 DEBUG    http_server.py[:91 ]  HttpServer---response---Thu Aug  1 10:22:55 2024  
+2024-08-01 10:22:55 DEBUG    http_server.py[:108]  HttpServer---response---回发给http数据：HTTP/1.1 200 OK
+Content-Type:text/html
+
+Thu Aug  1 10:22:55 2024
+2024-08-01 10:23:01 DEBUG    http_server.py[:66 ]  HttpServer---server_forever---连接成功：('127.0.0.1', 10815)
+2024-08-01 10:23:01 DEBUG    http_server.py[:63 ]  HttpServer---server_forever---开始主循环 接收服务器访问
+2024-08-01 10:23:01 DEBUG    http_server.py[:79 ]  HttpServer---handle---访问内容：{'method': 'GET', 'info': '/ti'}
+2024-08-01 10:23:01 DEBUG    http_server.py[:24 ]  ---connect_frame---{'method': 'GET', 'info': '/ti'}
+2024-08-01 10:23:01 DEBUG    web_frame.py[:84 ]  webserver客户端：('127.0.0.1', 10816) 连接成功
+2024-08-01 10:23:01 DEBUG    web_frame.py[:82 ]  等待webserver连接。。。
+2024-08-01 10:23:01 DEBUG    web_frame.py[:23 ]  Application---run---收到webserver：{'method': 'GET', 'info': '/ti'}
+2024-08-01 10:23:01 DEBUG    web_frame.py[:60 ]  Application---get_data---/ti
+2024-08-01 10:23:01 DEBUG    web_frame.py[:62 ]  Application---get_data---查看数据处理路由是否支持:/hello
+2024-08-01 10:23:01 DEBUG    web_frame.py[:62 ]  Application---get_data---查看数据处理路由是否支持:/time
+2024-08-01 10:23:01 DEBUG    web_frame.py[:33 ]  Application---run---回发webserver：{"status": 404, "data": "\u6ca1\u6709\u5b9e\u73b0\u5f53\u524d\u7684\u83b7\u53d6\u6570\u636e\u5904\u7406\u51fd\u6570"}
+2024-08-01 10:23:01 DEBUG    http_server.py[:38 ]  ---connect_frame-return-{'status': 404, 'data': '没有实现当前的获取数据处理函数'}
+2024-08-01 10:23:01 DEBUG    http_server.py[:86 ]  HttpServer---handle---webframe处理后返回数据：{'status': 404, 'data': '没有实现当前的获取数据处理函数'}
+2024-08-01 10:23:01 DEBUG    http_server.py[:90 ]  HttpServer---response---404  
+2024-08-01 10:23:01 DEBUG    http_server.py[:91 ]  HttpServer---response---没有实现当前的获取数据处理函数  
+2024-08-01 10:23:01 DEBUG    http_server.py[:108]  HttpServer---response---回发给http数据：HTTP/1.1 404 OK
+Content-Type:text/html
+
+没有实现当前的获取数据处理函数
+2024-08-01 10:23:01 DEBUG    http_server.py[:66 ]  HttpServer---server_forever---连接成功：('127.0.0.1', 10817)
+2024-08-01 10:23:01 DEBUG    http_server.py[:63 ]  HttpServer---server_forever---开始主循环 接收服务器访问
+2024-08-01 10:23:01 DEBUG    http_server.py[:79 ]  HttpServer---handle---访问内容：{'method': 'GET', 'info': '/favicon.ico'}
+2024-08-01 10:23:01 DEBUG    http_server.py[:24 ]  ---connect_frame---{'method': 'GET', 'info': '/favicon.ico'}
+2024-08-01 10:23:01 DEBUG    web_frame.py[:84 ]  webserver客户端：('127.0.0.1', 10818) 连接成功
+2024-08-01 10:23:01 DEBUG    web_frame.py[:23 ]  Application---run---收到webserver：{'method': 'GET', 'info': '/favicon.ico'}
+2024-08-01 10:23:01 DEBUG    web_frame.py[:82 ]  等待webserver连接。。。
+2024-08-01 10:23:01 DEBUG    web_frame.py[:25 ]  Application---run---有是你favicon.ico滚！
+2024-08-01 10:23:01 DEBUG    http_server.py[:66 ]  HttpServer---server_forever---连接成功：('127.0.0.1', 10819)
+2024-08-01 10:23:01 DEBUG    http_server.py[:79 ]  HttpServer---handle---访问内容：{'method': 'GET', 'info': '/favicon.ico'}
+2024-08-01 10:23:01 DEBUG    http_server.py[:24 ]  ---connect_frame---{'method': 'GET', 'info': '/favicon.ico'}
+2024-08-01 10:23:01 DEBUG    http_server.py[:63 ]  HttpServer---server_forever---开始主循环 接收服务器访问
+2024-08-01 10:23:01 DEBUG    web_frame.py[:84 ]  webserver客户端：('127.0.0.1', 10820) 连接成功
+2024-08-01 10:23:01 DEBUG    web_frame.py[:82 ]  等待webserver连接。。。
+2024-08-01 10:23:01 DEBUG    web_frame.py[:23 ]  Application---run---收到webserver：{'method': 'GET', 'info': '/favicon.ico'}
+2024-08-01 10:23:01 DEBUG    web_frame.py[:25 ]  Application---run---有是你favicon.ico滚！
+2024-08-01 14:19:42 DEBUG    web_frame.py[:82 ]  等待webserver连接。。。

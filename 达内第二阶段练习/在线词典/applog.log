@@ -1,0 +1,85 @@
+2024-07-30 13:47:22 DEBUG    dict_client.py[:109]  main---主循环
+2024-07-30 13:47:30 DEBUG    dict_client.py[:51 ]  ---do_login---zxf  123
+2024-07-30 13:47:30 DEBUG    dict_client.py[:18 ]  ---send_info---L zxf 123
+2024-07-30 13:47:30 DEBUG    dict_client.py[:24 ]  ---recv_info---OK
+2024-07-30 13:47:42 DEBUG    dict_client.py[:18 ]  ---send_info---S zxf gambling
+2024-07-30 13:47:42 DEBUG    dict_client.py[:24 ]  ---recv_info---OK n. 赌博
+:42 ]  Handle_Thread---judge_agreement---['L', 'zxf', '123']
+2024-07-30 13:47:30 DEBUG    dict_server.py[:62 ]  Handle_Thread---login---zxf    123
+2024-07-30 13:47:30 DEBUG    dict_db.py[:54 ]  Entrance---login---zxf 123
+2024-07-30 13:47:30 DEBUG    dict_server.py[:86 ]  Handle_Thread---send_data---OK
+2024-07-30 13:47:42 DEBUG    dict_server.py[:42 ]  Handle_Thread---judge_agreement---['S', 'zxf', 'gambling']
+2024-07-30 13:47:42 DEBUG    dict_server.py[:69 ]  Handle_Thread---select_word---zxf    gambling
+2024-07-30 13:47:42 DEBUG    dict_db.py[:65 ]  Entrance---select_word---zxf--gambling
+2024-07-30 13:47:42 DEBUG    dict_server.py[:71 ]  Handle_Thread---select_word---查询结果：n. 赌博
+2024-07-30 13:47:42 DEBUG    dict_server.py[:86 ]  Handle_Thread---send_data---OK n. 赌博
+2024-07-30 13:51:56 DEBUG    dict_db.py[:13 ]  Entrance---initialize
+2024-07-30 13:51:56 DEBUG    dict_server.py[:98 ]  main---等待连接。。。
+2024-07-30 13:51:59 DEBUG    dict_client.py[:109]  main---主循环
+2024-07-30 13:51:59 DEBUG    dict_server.py[:100]  main---客户端：('127.0.0.1', 3721) 连接成功
+2024-07-30 13:51:59 DEBUG    dict_db.py[:25 ]  Entrance---create_cursor
+2024-07-30 13:51:59 DEBUG    dict_server.py[:98 ]  main---等待连接。。。
+2024-07-30 13:52:07 DEBUG    dict_client.py[:51 ]  ---do_login---zxf  123
+2024-07-30 13:52:07 DEBUG    dict_client.py[:18 ]  ---send_info---L zxf 123
+2024-07-30 13:52:07 DEBUG    dict_server.py[:42 ]  Handle_Thread---judge_agreement---['L', 'zxf', '123']
+2024-07-30 13:52:07 DEBUG    dict_server.py[:62 ]  Handle_Thread---login---zxf    123
+2024-07-30 13:52:07 DEBUG    dict_db.py[:54 ]  Entrance---login---zxf 123
+2024-07-30 13:52:07 DEBUG    dict_server.py[:86 ]  Handle_Thread---send_data---OK
+2024-07-30 13:52:07 DEBUG    dict_client.py[:24 ]  ---recv_info---OK
+2024-07-30 13:52:20 DEBUG    dict_client.py[:18 ]  ---send_info---S zxf logic
+2024-07-30 13:52:20 DEBUG    dict_server.py[:42 ]  Handle_Thread---judge_agreement---['S', 'zxf', 'logic']
+2024-07-30 13:52:20 DEBUG    dict_server.py[:69 ]  Handle_Thread---select_word---zxf    logic
+2024-07-30 13:52:20 DEBUG    dict_db.py[:65 ]  Entrance---select_word---zxf--logic
+2024-07-30 13:52:20 DEBUG    dict_server.py[:71 ]  Handle_Thread---select_word---查询结果：n. 逻辑
+2024-07-30 13:52:20 DEBUG    dict_server.py[:86 ]  Handle_Thread---send_data---OK n. 逻辑
+2024-07-30 13:52:20 DEBUG    dict_client.py[:24 ]  ---recv_info---OK n. 逻辑
+2024-07-30 16:24:52 DEBUG    dict_db.py[:20 ]  Entrance---initialize
+2024-07-30 16:24:52 DEBUG    dict_server.py[:108]  main---等待连接。。。
+2024-07-30 16:24:57 DEBUG    dict_client.py[:125]  main---主循环
+2024-07-30 16:24:57 DEBUG    dict_server.py[:110]  main---客户端：('127.0.0.1', 11468) 连接成功
+2024-07-30 16:24:57 DEBUG    dict_db.py[:32 ]  Entrance---create_cursor
+2024-07-30 16:24:57 DEBUG    dict_server.py[:108]  main---等待连接。。。
+2024-07-30 16:25:07 DEBUG    dict_client.py[:33 ]  ---do_register---zr--123
+2024-07-30 16:25:07 DEBUG    dict_client.py[:19 ]  ---send_info---R zr 123
+2024-07-30 16:25:07 DEBUG    dict_server.py[:43 ]  Handle_Thread---judge_agreement---['R', 'zr', '123']
+2024-07-30 16:25:07 DEBUG    dict_server.py[:56 ]  Handle_Thread---register---zr 123
+2024-07-30 16:25:07 DEBUG    dict_db.py[:44 ]  Entrance---register---zr--123
+2024-07-30 16:25:07 DEBUG    dict_server.py[:96 ]  Handle_Thread---send_data---OK
+2024-07-30 16:25:07 DEBUG    dict_client.py[:25 ]  ---recv_info---OK
+2024-07-30 16:25:26 DEBUG    dict_client.py[:19 ]  ---send_info---S zr generous
+2024-07-30 16:25:26 DEBUG    dict_server.py[:43 ]  Handle_Thread---judge_agreement---['S', 'zr', 'generous']
+2024-07-30 16:25:26 DEBUG    dict_db.py[:96 ]  Entrance---insert_hist---zr--generous
+2024-07-30 16:25:26 DEBUG    dict_server.py[:72 ]  Handle_Thread---select_word---zr    generous
+2024-07-30 16:25:26 DEBUG    dict_db.py[:74 ]  Entrance---select_word---zr--generous
+2024-07-30 16:25:26 DEBUG    dict_server.py[:74 ]  Handle_Thread---select_word---查询结果：adj. 慷慨的
+2024-07-30 16:25:26 DEBUG    dict_server.py[:96 ]  Handle_Thread---send_data---OK adj. 慷慨的
+2024-07-30 16:25:26 DEBUG    dict_client.py[:25 ]  ---recv_info---OK adj. 慷慨的
+2024-07-30 16:26:37 DEBUG    dict_client.py[:33 ]  ---do_register---E--E
+2024-07-30 16:26:42 DEBUG    dict_client.py[:19 ]  ---send_info---E
+2024-07-30 16:26:42 DEBUG    dict_server.py[:43 ]  Handle_Thread---judge_agreement---['E']
+2024-07-30 16:26:42 DEBUG    dict_db.py[:36 ]  Entrance---close_cursor
+2024-07-30 16:39:22 DEBUG    dict_db.py[:20 ]  Entrance---initialize
+2024-07-30 16:39:22 DEBUG    dict_server.py[:108]  main---等待连接。。。
+2024-07-30 16:39:27 DEBUG    dict_client.py[:122]  main---主循环
+2024-07-30 16:39:27 DEBUG    dict_server.py[:110]  main---客户端：('127.0.0.1', 11586) 连接成功
+2024-07-30 16:39:27 DEBUG    dict_db.py[:32 ]  Entrance---create_cursor
+2024-07-30 16:39:27 DEBUG    dict_server.py[:108]  main---等待连接。。。
+2024-07-30 16:39:37 DEBUG    dict_client.py[:56 ]  ---do_login---zr  123
+2024-07-30 16:39:37 DEBUG    dict_client.py[:19 ]  ---send_info---L zr 123
+2024-07-30 16:39:37 DEBUG    dict_server.py[:43 ]  Handle_Thread---judge_agreement---['L', 'zr', '123']
+2024-07-30 16:39:37 DEBUG    dict_server.py[:63 ]  Handle_Thread---login---zr    123
+2024-07-30 16:39:37 DEBUG    dict_db.py[:62 ]  Entrance---login---zr 123
+2024-07-30 16:39:37 DEBUG    dict_server.py[:96 ]  Handle_Thread---send_data---OK
+2024-07-30 16:39:37 DEBUG    dict_client.py[:25 ]  ---recv_info---OK
+2024-07-30 16:39:54 DEBUG    dict_client.py[:19 ]  ---send_info---S zr persistent
+2024-07-30 16:39:54 DEBUG    dict_server.py[:43 ]  Handle_Thread---judge_agreement---['S', 'zr', 'persistent']
+2024-07-30 16:39:54 DEBUG    dict_db.py[:96 ]  Entrance---insert_hist---zr--persistent
+2024-07-30 16:39:54 DEBUG    dict_server.py[:72 ]  Handle_Thread---select_word---zr    persistent
+2024-07-30 16:39:54 DEBUG    dict_db.py[:74 ]  Entrance---select_word---zr--persistent
+2024-07-30 16:39:54 DEBUG    dict_server.py[:74 ]  Handle_Thread---select_word---查询结果：adj. 持续的；坚持的
+2024-07-30 16:39:54 DEBUG    dict_server.py[:96 ]  Handle_Thread---send_data---adj. 持续的；坚持的
+2024-07-30 16:39:54 DEBUG    dict_client.py[:25 ]  ---recv_info---adj. 持续的；坚持的
+2024-07-30 16:41:14 DEBUG    dict_client.py[:56 ]  ---do_login---E  E
+2024-07-30 16:41:20 DEBUG    dict_client.py[:19 ]  ---send_info---E
+2024-07-30 16:41:20 DEBUG    dict_server.py[:43 ]  Handle_Thread---judge_agreement---['E']
+2024-07-30 16:41:20 DEBUG    dict_db.py[:36 ]  Entrance---close_cursor
